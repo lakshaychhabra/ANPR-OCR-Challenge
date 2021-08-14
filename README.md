@@ -27,4 +27,4 @@ We started with the default paddle ocr settings and in the end got 30% exact mat
 ### Future Scope:
 1. We can use Morphological operations to preprocess the images and remove some noise in them.
 2. We can also use prespective transformation to align the number plates correctly so number can become more clear.
-3. We can also use Tessearct and then compare the results of both the approach.
+3. We can also use Tesseract and then compare the results of both the approach.
